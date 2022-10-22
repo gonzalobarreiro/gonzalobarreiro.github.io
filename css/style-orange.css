@@ -533,7 +533,7 @@ div.two-column-list article ul {
     -webkit-print-color-adjust: exact !important;
     color-adjust: exact !important;
   }
-  body
+  body,
   #cv,
   #header,
   #main-area {
@@ -546,9 +546,9 @@ div.two-column-list article ul {
   }
   #header,
   #main-area {
-    width: 100%;
+    width: 90%;
     margin: 0;
-    padding: 0 1.5cm;
+    padding: 0 5%;
   }
   #header {
     padding-bottom: 0.25cm;
