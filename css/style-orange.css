@@ -91,9 +91,13 @@ section {
 /* #endregion */
 
 /* #region Base CSS */
+@media screen {
+  html, body {
+    background-color: #181818;
+  }
+}
 html,
 body {
-  background-color: #181818;
   color: #222;
   font-size: 14px;
 }
