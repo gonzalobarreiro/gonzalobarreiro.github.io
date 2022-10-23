@@ -552,10 +552,12 @@ div.two-column-list article ul {
   #main-area {
     width: 90%;
     margin: 0;
-    padding: 0 5%;
   }
   #header {
-    padding-bottom: 0.25cm;
+    padding: -0.25cm 5% 0.5cm;
+  }
+  #main-area {
+    padding: 0 5%;
   }
   section {
     display: table;
